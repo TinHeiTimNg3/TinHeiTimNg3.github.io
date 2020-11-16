@@ -1,2 +1,8 @@
 # TinHeiTimNg3.github.io
-Tim Ng Personal Website
+This is Tim Ng Personal Website
+
+Checklist:
+Content
+CSS file
+CNAME file
+Publish works?
