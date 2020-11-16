@@ -2,7 +2,7 @@
 This is Tim Ng Personal Website
 
 Checklist:
-Content
-CSS file
-CNAME file
-Publish works?
+- Content
+- CSS file
+- CNAME file
+- Publish works?
